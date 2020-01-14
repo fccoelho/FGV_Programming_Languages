@@ -64,12 +64,12 @@ Configurações:
 
 #### Sites de Exercícios
 
-[Project Euler](https://projecteuler.net/)  
-[Brilliant](http://brilliant.org/)  
-[URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)  
-[Exercícios em Python](http://joaoventura.net/static/files/python_exercises_book.pdf)  
-[Rosetta Code](http://www.rosettacode.org)
-[Exercism](https://exercism.io)
+- [Project Euler](https://projecteuler.net/)  
+- [Brilliant](http://brilliant.org/)  
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)  
+- [Exercícios em Python](http://joaoventura.net/static/files/python_exercises_book.pdf)  
+- [Rosetta Code](http://www.rosettacode.org)
+- [Exercism](https://exercism.io)
 
 #### Outros recursos  
 
